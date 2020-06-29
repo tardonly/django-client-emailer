@@ -48,6 +48,7 @@ Installation Procedure
 
    #### AWS details if mail sender amazon
 
+
     AWS_ACCESS_KEY_ID = "Your AWS Access Key"
 
     AWS_SECRET_ACCESS_KEY = "Your AWS Secret Key"
